@@ -17,7 +17,7 @@ SoftwareSerial test_GPS(RX, TX);
 WidgetMap myMap(V5);
 WidgetLCD lcd(V6);
 
-char auth[] = "bc2fc5b504e84f6981ac5e91ab38a7f3";
+char auth[] = "Auth code";
 char ssid[] = "Ap";
 char pass[] = "11111111";
 unsigned long myChannelNumber = 750168;

@@ -21,7 +21,7 @@ char auth[] = "Auth code";
 char ssid[] = "Ap";
 char pass[] = "11111111";
 unsigned long myChannelNumber = 750168;
-const char * myWriteAPIKey = "NZ37R1LFQD07TP07";
+const char * myWriteAPIKey = "Write key";
 
 void setup()
 {
